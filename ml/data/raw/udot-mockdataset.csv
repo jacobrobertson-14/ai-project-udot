@@ -1,81 +1,81 @@
 Region,Pin,Pin Description,Pin Status,Primary Concept,Project Value,Projected Start Year
-1,31001,I-15; Riverdale Road Interchange Modernization,Scoping,Upgrade Existing Interchange, $95,000,000,2026
-1,31002,US-89; Layton Parkway to Antelope Drive Widening,Under Construction,Widen Existing Facility,$72,500,000,2024
-1,31003,SR-193; Hill AFB East Gate Bridge Replacement,Advertised,New Bridge/Bridge Replacement,$21,300,000,2025
-1,31004,I-84; Weber Canyon Slope Stabilization,Under Construction,Spot Safety Improvement,$8,400,000,2024
-1,31005,SR-30; Tremonton to Riverside Pavement Rehab,Scoping,Preservation High Volume,$6,800,000,2026
-1,31006,US-91; Logan Main Street Intersection Upgrade,Advertised,Intersection Modification,$3,200,000,2025
-1,31007,I-15; Brigham City Northbound Lane Addition,Scoping,Widen Existing Facility,$44,000,000,2027
-1,31008,SR-126; Roy to Clinton Signal Coordination,Under Construction,Traffic Signal Coordination,$2,100,000,2024
-1,31009,US-89; Ogden Canyon Bridge Deck Replacement,Scoping,Deck Repair/Replacement,$12,500,000,2026
-1,31010,SR-39; Valley Drive Roundabout,Advertised,Intersection Modification,$1,800,000,2025
-1,31011,I-84; Echo Junction Pavement Preservation,Under Construction,Preservation High Volume,$15,200,000,2024
-1,31012,US-89; Fruit Heights Safety Barrier,Proposed,Barrier Treatments,$2,300,000,2027
-1,31013,SR-193; Layton Parkway Interchange,Scoping,New Interchange on Existing Freeway,$38,000,000,2028
-1,31014,I-15; Willard Bay Rest Area Upgrades,Advertised,Other-Roadway Project,$4,900,000,2025
-1,31015,SR-30; Cache Valley Bridge Replacement,Scoping,New Bridge/Bridge Replacement,$17,000,000,2026
-1,31016,US-91; Wellsville Mountain Climbing Lane,Under Construction,Passing Lane,$11,400,000,2025
-1,31017,SR-134; Plain City Widening,Scoping,Widen Existing Facility,$9,800,000,2027
-1,31018,I-15; Farr West Interchange Lighting,Advertised,Small Area Lighting,$1,200,000,2025
-1,31019,US-89; South Ogden Pavement Markings,Scoping,Pavement Markings,$430,000,2026
-1,31020,SR-203; Ogden Harrison Blvd Signal Upgrade,Under Construction,Traffic Signal - Upgrade,$950,000,2024
-2,32001,I-80; Sugar House to Parleys Lane Express Lanes,Scoping,Widen Existing Facility,$110,000,000,2027
-2,32002,SR-201; Redwood Road Interchange Reconstruction,Scoping,Upgrade Existing Interchange,$88,000,000,2026
-2,32003,Bangerter Hwy (SR-154); 5400 S to 4100 S Overpass,Proposed,New Bridge/Bridge Replacement,$55,000,000,2028
-2,32004,I-215; 4700 S to 3900 S Pavement Rehabilitation,Under Construction,Rehabilitation High Volume,$24,800,000,2025
-2,32005,SR-68; Redwood Road Widening (Bluffdale to Riverton),Scoping,Widen Existing Facility,$61,000,000,2026
-2,32006,US-89; Murray 5300 S Interchange Modernization,Advertised,Upgrade Existing Interchange,$77,500,000,2025
-2,32007,I-15; 9000 S to 10600 S Auxiliary Lane,Under Construction,Widen Existing Facility,$36,200,000,2024
-2,32008,SR-171; 3300 S Signal Timing Optimization,Scoping,Traffic Signal Coordination,$2,500,000,2027
-2,32009,I-80; State Street to 1300 E Bridge Decks,Advertised,Deck Repair/Replacement,$19,400,000,2025
-2,32010,SR-154; Bangerter Hwy Median Barrier,Under Construction,Barrier Treatments,$4,200,000,2024
-2,32011,I-215; North Temple Interchange Ramp Upgrade,Scoping,Upgrade Existing Interchange,$49,000,000,2027
-2,32012,SR-201; Magna to West Valley Pavement Rehab,Advertised,Preservation High Volume,$13,800,000,2025
-2,32013,US-40; Silver Creek Junction Bridge Replacement,Scoping,New Bridge/Bridge Replacement,$22,000,000,2026
-2,32014,SR-111; Magna Safety Improvements,Under Construction,Spot Safety Improvement,$3,600,000,2024
-2,32015,I-80; Parleys Summit Wildlife Fencing,Scoping,Fencing,$1,100,000,2027
-2,32016,SR-68; 2100 S Intersection Upgrade,Advertised,Intersection Modification,$2,900,000,2025
-2,32017,US-89; Holladay Blvd Intersection Realignment,Scoping,Intersection Modification,$5,100,000,2026
-2,32018,SR-154; 6200 S to 7800 S Widening,Under Construction,Widen Existing Facility,$28,000,000,2024
-2,32019,I-215; 3500 S to 4700 S Pavement Markings,Scoping,Pavement Markings,$650,000,2026
-2,32020,SR-201; 5600 W Interchange Lighting,Advertised,Small Area Lighting,$1,350,000,2025
-3,33001,US-6; Spanish Fork Canyon Guardrail Upgrades,Scoping,Barrier Treatments,$6,700,000,2026
-3,33002,I-15; Orem Center Street Interchange Improvements,Under Construction,Upgrade Existing Interchange,$67,500,000,2025
-3,33003,SR-92; Highland to American Fork Widening,Advertised,Widen Existing Facility,$39,200,000,2025
-3,33004,US-189; Provo Canyon Tunnel Lighting Replacement,Scoping,Small Area Lighting,$3,900,000,2027
-3,33005,SR-198; Payson Main Street Pavement Rehab,Advertised,Preservation High Volume,$5,200,000,2025
-3,33006,I-15; Spanish Fork Southbound Lane Addition,Scoping,Widen Existing Facility,$48,000,000,2027
-3,33007,US-40; Heber City Bypass Phase 1,Scoping,New Capacity,$120,000,000,2027
-3,33008,SR-113; Midway Bridge Replacement,Under Construction,New Bridge/Bridge Replacement,$13,600,000,2024
-3,33009,I-15; Springville Interchange Ramp Upgrade,Advertised,Upgrade Existing Interchange,$41,700,000,2025
-3,33010,SR-75; Springville Safety Barrier,Scoping,Barrier Treatments,$1,700,000,2026
-3,33011,US-6; Helper to Price Passing Lane,Under Construction,Passing Lane,$16,900,000,2025
-3,33012,SR-145; American Fork Intersection Improvements,Advertised,Intersection Modification,$2,400,000,2025
-3,33013,I-15; Provo Center Street Bridge Deck,Scoping,Deck Repair/Replacement,$8,900,000,2026
-3,33014,US-189; Orem to Provo Pavement Markings,Advertised,Pavement Markings,$520,000,2025
-3,33015,SR-92; Timpanogos Highway Lighting Upgrade,Scoping,Small Area Lighting,$1,500,000,2027
-3,33016,I-15; Pleasant Grove Interchange Modernization,Under Construction,Upgrade Existing Interchange,$55,000,000,2024
-3,33017,US-6; Spanish Fork to Thistle Slope Stabilization,Scoping,Spot Safety Improvement,$7,800,000,2026
-3,33018,SR-198; Salem Roundabout,Advertised,Intersection Modification,$1,200,000,2025
-3,33019,US-40; Daniels Canyon Bridge Deck Replacement,Scoping,Deck Repair/Replacement,$10,400,000,2026
-3,33020,I-15; Lehi Main Street Pavement Rehab,Under Construction,Preservation High Volume,$12,200,000,2024
-4,34001,US-191; Moab to Arches National Park Passing Lanes,Under Construction,Passing Lane,$18,700,000,2024
-4,34002,I-70; Green River Rest Area Bridge Replacement,Scoping,New Bridge/Bridge Replacement,$12,400,000,2026
-4,34003,SR-24; Hanksville Flood Mitigation,Proposed,Drainage,$5,200,000,2027
-4,34004,US-89; Kanab North Safety Improvements,Advertised,Spot Safety Improvement,$7,800,000,2025
-4,34005,SR-12; Escalante to Boulder Widening,Scoping,Widen Existing Facility,$22,000,000,2026
-4,34006,I-70; Salina Canyon Pavement Preservation,Under Construction,Preservation High Volume,$14,900,000,2024
-4,34007,US-191; Monticello Main Street Intersection Upgrade,Advertised,Intersection Modification,$2,800,000,2025
-4,34008,SR-95; Blanding Bridge Replacement,Scoping,New Bridge/Bridge Replacement,$9,600,000,2026
-4,34009,I-70; San Rafael Swell Rest Area Upgrades,Advertised,Other-Roadway Project,$9,500,000,2025
-4,34010,US-89; Panguitch to Hatch Passing Lane,Under Construction,Passing Lane,$13,200,000,2025
-4,34011,SR-14; Cedar Canyon Slope Stabilization,Scoping,Spot Safety Improvement,$6,300,000,2026
-4,34012,I-15; Beaver Southbound Lane Addition,Advertised,Widen Existing Facility,$29,000,000,2025
-4,34013,US-6; Green River Bridge Deck Replacement,Scoping,Deck Repair/Replacement,$8,200,000,2026
-4,34014,SR-24; Capitol Reef Scenic Overlook,Advertised,Other-Roadway Project,$1,700,000,2025
-4,34015,I-70; Fremont Junction Pavement Markings,Scoping,Pavement Markings,$340,000,2026
-4,34016,US-191; Bluff Main Street Lighting,Under Construction,Small Area Lighting,$1,100,000,2024
-4,34017,SR-95; Fry Canyon Safety Barrier,Scoping,Barrier Treatments,$2,200,000,2027
-4,34018,I-15; Cedar City Interchange Modernization,Advertised,Upgrade Existing Interchange,$37,800,000,2025
-4,34019,US-89; Kanab to Orderville Pavement Rehab,Scoping,Preservation High Volume,$5,900,000,2026
-4,34020,SR-14; Duck Creek Village Intersection Improvements,Under Construction,Intersection Modification,$1,600,000,2024
+1,31001,I-15; Riverdale Road Interchange Modernization,Scoping,Upgrade Existing Interchange,95000000,2026
+1,31002,US-89; Layton Parkway to Antelope Drive Widening,Under Construction,Widen Existing Facility,72500000,2024
+1,31003,SR-193; Hill AFB East Gate Bridge Replacement,Advertised,New Bridge/Bridge Replacement,21300000,2025
+1,31004,I-84; Weber Canyon Slope Stabilization,Under Construction,Spot Safety Improvement,8400000,2024
+1,31005,SR-30; Tremonton to Riverside Pavement Rehab,Scoping,Preservation High Volume,6800000,2026
+1,31006,US-91; Logan Main Street Intersection Upgrade,Advertised,Intersection Modification,3200000,2025
+1,31007,I-15; Brigham City Northbound Lane Addition,Scoping,Widen Existing Facility,44000000,2027
+1,31008,SR-126; Roy to Clinton Signal Coordination,Under Construction,Traffic Signal Coordination,2100000,2024
+1,31009,US-89; Ogden Canyon Bridge Deck Replacement,Scoping,Deck Repair/Replacement,12500000,2026
+1,31010,SR-39; Valley Drive Roundabout,Advertised,Intersection Modification,1800000,2025
+1,31011,I-84; Echo Junction Pavement Preservation,Under Construction,Preservation High Volume,15200000,2024
+1,31012,US-89; Fruit Heights Safety Barrier,Proposed,Barrier Treatments,2300000,2027
+1,31013,SR-193; Layton Parkway Interchange,Scoping,New Interchange on Existing Freeway,38000000,2028
+1,31014,I-15; Willard Bay Rest Area Upgrades,Advertised,Other-Roadway Project,4900000,2025
+1,31015,SR-30; Cache Valley Bridge Replacement,Scoping,New Bridge/Bridge Replacement,17000000,2026
+1,31016,US-91; Wellsville Mountain Climbing Lane,Under Construction,Passing Lane,11400000,2025
+1,31017,SR-134; Plain City Widening,Scoping,Widen Existing Facility,9800000,2027
+1,31018,I-15; Farr West Interchange Lighting,Advertised,Small Area Lighting,1200000,2025
+1,31019,US-89; South Ogden Pavement Markings,Scoping,Pavement Markings,430000,2026
+1,31020,SR-203; Ogden Harrison Blvd Signal Upgrade,Under Construction,Traffic Signal - Upgrade,950000,2024
+2,32001,I-80; Sugar House to Parleys Lane Express Lanes,Scoping,Widen Existing Facility,110000000,2027
+2,32002,SR-201; Redwood Road Interchange Reconstruction,Scoping,Upgrade Existing Interchange,88000000,2026
+2,32003,Bangerter Hwy (SR-154); 5400 S to 4100 S Overpass,Proposed,New Bridge/Bridge Replacement,55000000,2028
+2,32004,I-215; 4700 S to 3900 S Pavement Rehabilitation,Under Construction,Rehabilitation High Volume,24800000,2025
+2,32005,SR-68; Redwood Road Widening (Bluffdale to Riverton),Scoping,Widen Existing Facility,61000000,2026
+2,32006,US-89; Murray 5300 S Interchange Modernization,Advertised,Upgrade Existing Interchange,77500000,2025
+2,32007,I-15; 9000 S to 10600 S Auxiliary Lane,Under Construction,Widen Existing Facility,36200000,2024
+2,32008,SR-171; 3300 S Signal Timing Optimization,Scoping,Traffic Signal Coordination,2500000,2027
+2,32009,I-80; State Street to 1300 E Bridge Decks,Advertised,Deck Repair/Replacement,19400000,2025
+2,32010,SR-154; Bangerter Hwy Median Barrier,Under Construction,Barrier Treatments,4200000,2024
+2,32011,I-215; North Temple Interchange Ramp Upgrade,Scoping,Upgrade Existing Interchange,49000000,2027
+2,32012,SR-201; Magna to West Valley Pavement Rehab,Advertised,Preservation High Volume,13800000,2025
+2,32013,US-40; Silver Creek Junction Bridge Replacement,Scoping,New Bridge/Bridge Replacement,22000000,2026
+2,32014,SR-111; Magna Safety Improvements,Under Construction,Spot Safety Improvement,3600000,2024
+2,32015,I-80; Parleys Summit Wildlife Fencing,Scoping,Fencing,1100000,2027
+2,32016,SR-68; 2100 S Intersection Upgrade,Advertised,Intersection Modification,2900000,2025
+2,32017,US-89; Holladay Blvd Intersection Realignment,Scoping,Intersection Modification,5100000,2026
+2,32018,SR-154; 6200 S to 7800 S Widening,Under Construction,Widen Existing Facility,28000000,2024
+2,32019,I-215; 3500 S to 4700 S Pavement Markings,Scoping,Pavement Markings,650000,2026
+2,32020,SR-201; 5600 W Interchange Lighting,Advertised,Small Area Lighting,1350000,2025
+3,33001,US-6; Spanish Fork Canyon Guardrail Upgrades,Scoping,Barrier Treatments,6700000,2026
+3,33002,I-15; Orem Center Street Interchange Improvements,Under Construction,Upgrade Existing Interchange,67500000,2025
+3,33003,SR-92; Highland to American Fork Widening,Advertised,Widen Existing Facility,39200000,2025
+3,33004,US-189; Provo Canyon Tunnel Lighting Replacement,Scoping,Small Area Lighting,3900000,2027
+3,33005,SR-198; Payson Main Street Pavement Rehab,Advertised,Preservation High Volume,5200000,2025
+3,33006,I-15; Spanish Fork Southbound Lane Addition,Scoping,Widen Existing Facility,48000000,2027
+3,33007,US-40; Heber City Bypass Phase 1,Scoping,New Capacity,120000000,2027
+3,33008,SR-113; Midway Bridge Replacement,Under Construction,New Bridge/Bridge Replacement,13600000,2024
+3,33009,I-15; Springville Interchange Ramp Upgrade,Advertised,Upgrade Existing Interchange,41700000,2025
+3,33010,SR-75; Springville Safety Barrier,Scoping,Barrier Treatments,1700000,2026
+3,33011,US-6; Helper to Price Passing Lane,Under Construction,Passing Lane,16900000,2025
+3,33012,SR-145; American Fork Intersection Improvements,Advertised,Intersection Modification,2400000,2025
+3,33013,I-15; Provo Center Street Bridge Deck,Scoping,Deck Repair/Replacement,8900000,2026
+3,33014,US-189; Orem to Provo Pavement Markings,Advertised,Pavement Markings,520000,2025
+3,33015,SR-92; Timpanogos Highway Lighting Upgrade,Scoping,Small Area Lighting,1500000,2027
+3,33016,I-15; Pleasant Grove Interchange Modernization,Under Construction,Upgrade Existing Interchange,55000000,2024
+3,33017,US-6; Spanish Fork to Thistle Slope Stabilization,Scoping,Spot Safety Improvement,7800000,2026
+3,33018,SR-198; Salem Roundabout,Advertised,Intersection Modification,1200000,2025
+3,33019,US-40; Daniels Canyon Bridge Deck Replacement,Scoping,Deck Repair/Replacement,10400000,2026
+3,33020,I-15; Lehi Main Street Pavement Rehab,Under Construction,Preservation High Volume,12200000,2024
+4,34001,US-191; Moab to Arches National Park Passing Lanes,Under Construction,Passing Lane,18700000,2024
+4,34002,I-70; Green River Rest Area Bridge Replacement,Scoping,New Bridge/Bridge Replacement,12400000,2026
+4,34003,SR-24; Hanksville Flood Mitigation,Proposed,Drainage,5200000,2027
+4,34004,US-89; Kanab North Safety Improvements,Advertised,Spot Safety Improvement,7800000,2025
+4,34005,SR-12; Escalante to Boulder Widening,Scoping,Widen Existing Facility,22000000,2026
+4,34006,I-70; Salina Canyon Pavement Preservation,Under Construction,Preservation High Volume,14900000,2024
+4,34007,US-191; Monticello Main Street Intersection Upgrade,Advertised,Intersection Modification,2800000,2025
+4,34008,SR-95; Blanding Bridge Replacement,Scoping,New Bridge/Bridge Replacement,9600000,2026
+4,34009,I-70; San Rafael Swell Rest Area Upgrades,Advertised,Other-Roadway Project,9500000,2025
+4,34010,US-89; Panguitch to Hatch Passing Lane,Under Construction,Passing Lane,13200000,2025
+4,34011,SR-14; Cedar Canyon Slope Stabilization,Scoping,Spot Safety Improvement,6300000,2026
+4,34012,I-15; Beaver Southbound Lane Addition,Advertised,Widen Existing Facility,29000000,2025
+4,34013,US-6; Green River Bridge Deck Replacement,Scoping,Deck Repair/Replacement,8200000,2026
+4,34014,SR-24; Capitol Reef Scenic Overlook,Advertised,Other-Roadway Project,1700000,2025
+4,34015,I-70; Fremont Junction Pavement Markings,Scoping,Pavement Markings,340000,2026
+4,34016,US-191; Bluff Main Street Lighting,Under Construction,Small Area Lighting,1100000,2024
+4,34017,SR-95; Fry Canyon Safety Barrier,Scoping,Barrier Treatments,2200000,2027
+4,34018,I-15; Cedar City Interchange Modernization,Advertised,Upgrade Existing Interchange,37800000,2025
+4,34019,US-89; Kanab to Orderville Pavement Rehab,Scoping,Preservation High Volume,5900000,2026
+4,34020,SR-14; Duck Creek Village Intersection Improvements,Under Construction,Intersection Modification,1600000,2024
